@@ -20,11 +20,11 @@ Piękno to kwestia względna, ale mi osobiście Aleksander się podoba.
 
 A jak wygląda w akcji? Zobaczcie sami:
 
- <video width="320" height="240" controls><source src="Media/aleksander_indoors.mov" type="video/mov">Film poprawnego działania</video>
+[Film poprawnego działania](https://youtu.be/_JaegOjjDDQ)
 
 Działanie jest szybkie i sprawne; Aleksander każdorazowo podaje szczodrą ilość alkoholu, zgodnie ze specyfikacją. W niektórych warunkach bywa jednak nieco zbyt hojny...
 
-<video width="320" height="240" controls><source src="Media/aleksander_outdoors.mov" type="video/mov">Film niepoprawnego działania</video>
+[Film niepoprawnego działania](https://youtu.be/lJuU_BZAH7c)
 
 Przeanalizujmy zjawisko. Mamy do czynienia z takim sensorem:
 
